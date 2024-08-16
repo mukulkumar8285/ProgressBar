@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProgressBar/static/css/main.7dbc4e5c.css",
+    "main.js": "/ProgressBar/static/js/main.5f3149f5.js",
+    "index.html": "/ProgressBar/index.html",
+    "main.7dbc4e5c.css.map": "/ProgressBar/static/css/main.7dbc4e5c.css.map",
+    "main.5f3149f5.js.map": "/ProgressBar/static/js/main.5f3149f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dbc4e5c.css",
+    "static/js/main.5f3149f5.js"
+  ]
+}
